@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667489878375",
+    "project_id": "echoepic-af2b1",
+    "storage_bucket": "echoepic-af2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667489878375:android:e1f03e2e1a77432abd6fc2",
+        "android_client_info": {
+          "package_name": "com.example.echo_epic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK54ScdK51hkqNKCQQzsqOi9hp_t2voR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
