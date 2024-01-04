@@ -1,16 +1,9 @@
 # emart_app
 
-A new Flutter project.
+Project MCC LEC
 
-## Getting Started
+Nama Kelompok: EchoEpic
 
-This project is a starting point for a Flutter application.
+Nama Anggota: 2602091955 - Nickson Tan Clarino 2602099794 - Christian Gunawan Jonathan 2602054120 - William
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Progress : 100%
